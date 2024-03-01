@@ -1,5 +1,5 @@
 [![MasterHead](https://media.licdn.com/dms/image/D4D12AQFS_42v39bhsA/article-cover_image-shrink_720_1280/0/1675016970735?e=2147483647&v=beta&t=wOs8YZDdO5kKmEb_8__SAMoxOWqRW16MolvuhQSY9JI)](https://www.linkedin.com/in/omerfkgoze/)
-<h1 align="center">Hi 👋, I'm Ömer Faruk</h1>
+<h1 align="center">Hi 👋 I'm Ömer Faruk</h1>
 <h3 align="center">Full Stack Web Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://h2.gifposter.com/gifs/wow/Programmer's-Wrath.gif">
 
