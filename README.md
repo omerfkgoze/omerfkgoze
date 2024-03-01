@@ -9,8 +9,6 @@
 
 - 🌱 I’m currently learning **TypeScript**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-bgpz1bwci-omer-faruks-projects.vercel.app/](https://portfolio-bgpz1bwci-omer-faruks-projects.vercel.app/)
-
 - 💬 Ask me about **react, javascript**
 
 - 📫 How to reach me **farukucukgoze@gmail.com**
