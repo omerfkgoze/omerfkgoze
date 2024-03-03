@@ -5,11 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omerfkgoze&label=Profile%20views&color=0e75b6&style=flat" alt="omerfkgoze" /> </p>
 
-- 🔭 I’m currently working on [The Wild Oasis](https://github.com/omerfkgoze/wildoasis)
+- 🔭 I’m currently working on [The Wild Oasis](https://github.com/omerfkgoze/wildoasis) project
 
-- 🌱 I’m currently learning **TypeScript**
+- 🌱 I’m currently learning **StyledComponents**
 
-- 💬 Ask me about **react, javascript**
+- 💬 Ask me about **react, javascript, node.js**
 
 - 📫 How to reach me **farukucukgoze@gmail.com**
 
